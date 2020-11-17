@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="20" started-at="2020-11-17T11:56:24 IST" finished-at="2020-11-17T11:56:24 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="20" started-at="2020-11-17T11:56:24 IST" finished-at="2020-11-17T11:56:24 IST">
+      <class name="com.sept2.newmaven.AppTest">
+        <test-method status="PASS" signature="testApp()[pri:0, instance:testApp(com.sept2.newmaven.AppTest)]" name="testApp" duration-ms="0" started-at="2020-11-17T11:56:24 IST" finished-at="2020-11-17T11:56:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- com.sept2.newmaven.AppTest -->
+      <class name="com.project.SeptemberSelenium12PMMaven.AppTest">
+        <test-method status="PASS" signature="testApp()[pri:0, instance:testApp(com.project.SeptemberSelenium12PMMaven.AppTest)]" name="testApp" duration-ms="3" started-at="2020-11-17T11:56:24 IST" finished-at="2020-11-17T11:56:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- com.project.SeptemberSelenium12PMMaven.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
